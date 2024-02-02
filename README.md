@@ -2,5 +2,5 @@
 #### 🧑🏻‍💻 BOJ Tier
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618)
 
-### Programming Language Stats
+### 🖥️Programming Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&theme=merko)
