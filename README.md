@@ -3,4 +3,4 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618)
 
 ### Programming Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&layout=merko&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&theme=merko)
