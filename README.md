@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </p>
 
-### 🧑🏻‍💻 BOJ Tier  
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618) 
+### 🧑🏻‍💻 BOJ Tier                                                              ### 🖥️ Programming Language Stats
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&theme=merko)
 
-### 🖥️ Programming Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&theme=merko)
 
