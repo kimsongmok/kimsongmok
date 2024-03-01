@@ -16,10 +16,12 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </p>
 <p align="center">
-### 🧑🏻‍💻 BOJ Tier                                                              
+<h3 align="center">🧑🏻‍💻 BOJ Tier</h3>
+<p align="center">
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618) 
-
-### 🖥️ Programming Language Stats
+</p>
+<h3 align="center"> 🖥️ Programming Language Stats</h3>
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&theme=merko)
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
