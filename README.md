@@ -15,11 +15,12 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </p>
-<p align="center">
-<h3 align="center">🧑🏻‍💻 BOJ Tier</h3>
-  [Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618) 
-<h3 align="center"> 🖥️ Programming Language Stats</h3>
+###🧑🏻‍💻 BOJ Tier
+  [Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618)
+
+###🖥️ Programming Language Stats
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&theme=merko)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsongmok&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
