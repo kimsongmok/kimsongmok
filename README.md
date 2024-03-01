@@ -20,7 +20,7 @@
 <h3 align="center"> 🧑🏻‍💻 BOJ Tier</h3>
 <p align="center">
   
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mok0618)]
 
 </p>
 <h3 align="center"> 🖥️ Github Stats</h3>
