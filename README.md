@@ -1,4 +1,4 @@
-## Study Hard to be a good Developer /좋은 개발자가 되기위해 노력하기!! 🏃
+## Study Hard to be a good Developer!/좋은 개발자가 되기위해 노력하기! 🏃
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
