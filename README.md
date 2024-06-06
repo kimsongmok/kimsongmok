@@ -19,7 +19,7 @@
 
 
 <h3 align="center"> 🧑🏻‍💻 BOJ Tier</h3>
-[(http://mazassumnida.wtf/api/generate_badge?boj=mok0618)](https://solved.ac/mok0618)
+(http://mazassumnida.wtf/api/generate_badge?boj=mok0618)(https://solved.ac/mok0618)
 <h3 align="center"> 🖥️ Github Stats</h3>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
