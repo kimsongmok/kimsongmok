@@ -20,7 +20,7 @@
 
 <h3 align="center"> 🧑🏻‍💻 BOJ Tier</h3>
 <p align="center">
-<img src = "[![Solved.ac 프로필]http://mazassumnida.wtf/api/v2/generate_badge?boj=mok0618)](https://solved.ac/mok0618)"/>
+<img src = "[![Solved.ac 프로필] http://mazassumnida.wtf/api/v2/generate_badge?boj=mok0618)](https://solved.ac/mok0618)"/>
 </p>
 <h3 align="center"> 🖥️ Github Stats</h3>
 <p align="center">
